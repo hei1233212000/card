@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="name-card-web:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="name-card-web-0.0.1-SNAPSHOT.war">
-      <element id="artifact" artifact-name="name-card-web:war exploded" />
-    </root>
-  </artifact>
-</component>
